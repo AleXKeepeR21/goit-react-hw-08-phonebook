@@ -1,0 +1,17 @@
+.container {
+  max-width: 960;
+  margin: '0 auto';
+  padding: '0 16px';
+}
+
+.header {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding-top: 48px;
+  padding-bottom: 12px;
+  /* background-image: url(../images/header-line.png); */
+  background-repeat: no-repeat;
+  background-size: contain;
+  background-position-y: bottom;
+}
