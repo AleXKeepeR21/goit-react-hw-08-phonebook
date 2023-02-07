@@ -15,12 +15,17 @@
   font-size: 20px;
 }
 .formButton {
-  font-size: 14px;
+  font-size: 16px;
   border-radius: 6px;
   width: 140px;
   height: 40px;
   justify-content: center;
   margin: auto;
   color: azure;
+  background-color: rgba(0, 51, 128, 0.405);
+}
+
+.formButton:hover {
+  color: #333333;
   background-color: rgba(0, 51, 128, 0.405);
 }
